@@ -3,6 +3,7 @@ channels:
   - anaconda
   - defaults
 dependencies:
+  - python=3.8.0
   - argon2-cffi=20.1.0=py37he774522_1
   - async_generator=1.10=py37h28b3542_0
   - attrs=20.2.0=py_0
