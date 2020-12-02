@@ -1,4 +1,4 @@
-name: SignalProcessing
+name: environment
 channels:
   - anaconda
   - defaults
