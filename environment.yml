@@ -19,7 +19,6 @@ dependencies:
   - defusedxml=0.6.0
   - entrypoints=0.3
   - freetype=2.10.4
-  - icc_rt=2019.0.0
   - icu=58.2
   - importlib-metadata=2.0.0
   - importlib_metadata=2.0.0
@@ -92,8 +91,6 @@ dependencies:
   - tornado=6.0.4
   - tqdm=4.50.2
   - traitlets=5.0.5
-  - vc=14.1
-  - vs2015_runtime=14.16.27012
   - wcwidth=0.2.5
   - webencodings=0.5.1
   - wheel=0.35.1
